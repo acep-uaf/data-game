@@ -4,7 +4,7 @@ this is a card game meant to help students and researchers develop understanding
 
 ## Contains all files relevant to the development of the game
 
-* brainstorming documents and images
+* [brainstorming documents and images](https://github.com/acep-uaf/data-game/tree/main/brainstorming)
 * planning documents
 * card designs
 
