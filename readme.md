@@ -5,8 +5,8 @@ this is a card game meant to help students and researchers develop understanding
 ## Contains all files relevant to the development of the game
 
 * [brainstorming documents and images](https://github.com/acep-uaf/data-game/tree/main/brainstorming)
-* instructions
-* card designs
+* [instructions](https://github.com/acep-uaf/data-game/tree/main/gameFiles)
+* [card designs](https://github.com/acep-uaf/data-game/tree/main/gameFiles)
 
 ## Authors & Contributors
 
